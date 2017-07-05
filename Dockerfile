@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM ubuntu:latest
 MAINTAINER Allan Espinosa "allan.espinosa@outlook.com"
 
 RUN apt-get update && \
